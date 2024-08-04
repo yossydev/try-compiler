@@ -4,7 +4,7 @@
 
 ```
 $ make
-$ ./parser sample.cc
+$ ./parser sample.c // or sample-compiler-error.c
 Variable declaration: a = 10
 Condition: a != 0
 Assignment: a = 0
